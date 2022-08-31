@@ -75,13 +75,13 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 ### :fire: My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naseerz&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naseerx&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=naseerz&show_icons=true&theme=radical)](https://git.io/streak-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naseerz)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=naseerx&show_icons=true&theme=radical)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naseerz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naseerx)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naseerx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
