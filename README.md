@@ -47,10 +47,12 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 ### GitHub Highlights: :blossom:
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naseerx&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
-<a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=naseerx&theme=material-palenight"/>
-</a>
+
+
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naseerx&theme=shades-of-purple)](https://git.io/streak-stats)
+
+
 
 ### Github Activity: 🔥 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=naseerx&theme=dracula&color=B994E6&bg_color=2B2D3D" />
