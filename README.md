@@ -49,7 +49,7 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naseerx&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 
 
-
+### Github Streak: 🔥 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naseerx&theme=shades-of-purple)](https://git.io/streak-stats)
 
 
