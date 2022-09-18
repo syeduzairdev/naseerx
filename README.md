@@ -2,7 +2,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Flutter+Developer+with+1%2B+Years+Experience;Passionate+about+Making+Mobile+Applications;Freelnancer;Open+sourse+contributer)](https://git.io/typing-svg)
 
@@ -47,21 +47,32 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 </div>
 
 ### Stats Overview : :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=naseerx&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=naseerx&theme=dracula&no-bg=true&row=1"/>
 
 
-### GitHub Highlights: :blossom:
+ <div align=center>
+ <img src="https://github-readme-stats.vercel.app/api?username=naseerx&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+ </div>
+
+
+
+
+### My Languages: 🕶️:
+<div align=center>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naseerx&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</div>
 
-
-### Github Streak: 🔥 
+ 
+### Github Streak: ❤️‍🔥 
+ <div align=center>
+  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naseerx&theme=shades-of-purple)](https://git.io/streak-stats)
+  
+</div>
 
 
-
-### Github Activity: 🔥 
+### Github Activity: 🎆
+ 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=naseerx&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 
