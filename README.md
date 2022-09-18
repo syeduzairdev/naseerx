@@ -6,6 +6,13 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Flutter+Developer+with+1%2B+Years+Experience;Passionate+about+Making+Mobile+Applications;Freelnancer;Open+sourse+contributer)](https://git.io/typing-svg)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naseerx&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
+<a align="center">
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/naseerx?label=Github%20followers&style=for-the-badge" >
+  </a> 
+
 ### How to reach me: 
 <a href="mailto: muhammadnaseer.dev@gmail.com">
 <img src="https://img.shields.io/badge/-muhammadnaseer.dev@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/its_naseerz/">   <img src="https://img.shields.io/badge/@naseerz_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/naseerz/"><img src="https://img.shields.io/badge/Muhammad Naseer-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://naseerdev.000webhostapp.com/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
